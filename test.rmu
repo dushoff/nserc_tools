@@ -1,0 +1,296 @@
+
+=== Examples ===
+
+==== FGC ====
+
+PMID:17217115
+
+PMID:16028453
+
+PMID:19861612
+
+PMID:23935631
+
+PMID:21592338
+
+Mackie, Gerry, and John LeJeune (2009). [http://www.unicef-irc.org/publications/558 Social Dynamics of Abandonment of Harmful Practices: A new look at the theory], Innocenti Working Paper 2009-06, UNICEF Innocenti Research Centre, Florence, May 2009.
+@book {Mack09,
+	author = {{Mackie, Gerry, and John LeJeune}},
+	year = {2009},
+	title = {Social Dynamics of Abandonment of Harmful Practices: A new look at the theory.},
+	publisher = "Working Paper 2009-06, UNICEF Innocenti Research Centre, Florence, May 2009",
+}@
+
+PMID:21920652
+
+PMID:17217118
+
+PMID:22423163
+
+[http://www.tostan.org/ Tostan] a community-led development (movement).  Female genital cutting is one of their main concern.  To look at their website for projects on how Senegal has been making progress on stopping FGC and expects to end it by 2015.  [http://en.wikipedia.org/wiki/Molly_Melching Molley Melching] is a founder of Tostan.
+
+[http://www.tostan.org/web/page/644/sectionid/548/pagelevel/3/interior.asp | Tostan] Female Genital Cutting (FGC).  Retrieved on December 4, 2012.
+
+United Nations Children’s Fund (2013). Female Genital Mutilation/Cutting: A statistical overview and exploration of the dynamics of change,
+@book {UNIC13,
+	author = {{UNICEF}},
+	year = {2013},
+	title = {Female Genital Mutilation/Cutting: A statistical overview and exploration of the dynamics of change.},
+	publisher = "UNICEF, New York, 2013",
+}@
+
+PMID:22371659
+
+PMID:12467257
+
+==== Foot binding ====
+
+Mackie, Gerry (1996). [[Image:Mackie.fgc.pdf]] Ending Footbinding and Infibulation: A convention account.  American Sociological Review, vol. 61, no. 6, December 1996, pp. 999-1017.
+@article {Mack96,
+	author = {{Mackie, Gerry}},
+	title = {Ending Footbinding and Infibulation: A convention account.},
+	journal = "American Sociological Review",
+	volume =61,
+	year=1996, 
+	pages="999-1017",
+}@
+
+Wilson, Ann-Marie. (2013) [http://dx.doi.org/10.1080/09589236.2012.681182]
+
+@article{Wilson_2013,
+	title={How the methods used to eliminate foot binding in China can be employed to eradicate female genital mutilation}, volume={22}, url={http://dx.doi.org/10.1080/09589236.2012.681182}, DOI={10.1080/09589236.2012.681182}, number={1}, journal={Journal of Gender Studies}, publisher={Informa UK (Taylor &amp; Francis)}, author={Wilson, Ann-Marie}, year={2013}, month={Mar}, pages={17-37}
+}@
+
+=== Audrey ===
+
+Halperin et al 2011: A Surprising Prevention Success: Why did the HIV Epidemic decline in Zimbabwe? PMID:21346807
+
+Kahan 2013. A Risky Science Communication Environment for Vaccines. PMID: 24092722
+
+Bauch & Galvani 2013 Social Factors in Epidemiology PMID:24092718
+
+Funk et al 2010. Endemic disease, awareness, and local behavioural response. PMID:20184901
+
+Funk et al 2009 The spread of awareness and its impact on epidemic outbreaks. PMID:19332788
+
+Funk et al 2010 Modelling the influence of human behaviour on the spread of infectious diseases: a review. PMID: 20504800
+
+Wells & Bauch 2012 The impact of personal experiences with infection and vaccination on behaviour-incidence dynamics of seasonal influenza.PMID: 22939311
+
+Ndeffo Mbah et al 2012 The impact of imitation on vaccination behavior in social contact networks. PMID: 22511859
+
+=== Network models ===
+
+Salathé, Martina Morris??
+
+PMID: 12241447
+PMID: 23712758
+PMID: 21976638
+
+=== Mixed models ===
+
+PMID: 19185386
+
+=== Norms and DoI ===
+
+@Book{Rogers, 
+	author ={Rogers, E. M.}, 
+	title = {Diffusion of innovations (5th edition)},
+	publisher = {Free Press}, 
+	year = 2003
+}@
+
+@Book{Bicc,
+	author = {Cristina Bicchieri},
+	title = {The Grammar of Society: The Nature and Dynamics of Social Norms},
+	publisher = {Cambridge University Press},
+	year ={2005}
+}@
+
+@Article{Bikh,
+author = 	 {S. Bikhchandani and D. Hirshleifer and I. Welch},
+title = 	 {A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades},
+journal = 	 {Journal of Political Economy},
+year = 	 1992,
+volume =	 100,
+number = 5,
+pages =	 {992--1026}
+}@
+
+@Article{Granovetter,
+author = 	 {Mark Granovetter},
+title = 	 {Threshold models of collective behavior},
+journal = 	 {The American Journal of Sociology},
+year = 	 1978,
+volume =	 83,
+number =	 6,
+pages =	 {1420--1443}
+}@
+
+PMID: 14574401
+
+DOI: 10.1103/PhysRevE.66.016128
+
+DOI: 10.1007/s00285-012-0572-3
+
+
+=== Mechanistic modeling ===
+
+PMID: 17156292
+PMID: 19535416
+
+@article{HoffGelm11,
+    author = {Matthew D. Hoffman and Andrew Gelman},
+    year = {2011},
+    title = {The No-{U}-Turn Sampler: Adaptively Setting Path Lengths
+             in {H}amiltonian {M}onte {C}arlo},
+    journal = {arXiv},
+    volume = {1111},
+    number = {4246},
+    version = {1},
+    url = {http://arxiv.org/abs/1111.4246}
+}@
+
+Free PMC Article
+
+=== Selected Dushoff ===
+
+Which four should I attach? Chose Townsend over Bellan because more ecological sort of.
+
+PMID: 23843396
+
+PMID: 23944527
+
+PMID: 23049741
+
+PMID: 23991233
+
+PMID: 23391466
+
+=== Other Dushoff ===
+
+PMID: 24117982
+
+PMID: 24739193
+
+PMID: 24026815
+
+PMID: 24024630
+
+PMID: 23711189
+
+PMID: 23645600
+
+PMID: 23407313
+
+PMID: 22509129
+
+PMID: 22312137
+
+PMID: 22205956
+
+PMID: 22151890
+
+PMID: 21856313
+
+PMID: 21632614
+
+PMID: 21630089
+
+PMID: 21476110
+
+PMID: 21390205
+
+PMID: 20437956
+
+PMID: 20080801
+
+PMID: 19843477
+
+PMID: 19799776
+
+PMID: 19702583
+
+PMID: 19696877
+
+PMID: 19368786
+
+PMID: 19281304
+
+PMID: 19278295
+
+PMID: 19073912
+
+PMID: 19030223
+
+PMID: 18976065
+
+PMID: 22427710
+
+PMID: 18647721
+
+PMID: 18321967
+
+PMID: 18171164
+
+PMID: 17877737
+
+PMID: 17708677
+
+PMID: 17522084
+
+PMID: 17518515
+
+PMID: 17452645
+
+PMID: 17225866
+
+PMID: 17164328
+
+PMID: 17043750
+
+PMID: 16964497
+
+PMID: 16754640
+
+PMID: 16424502
+
+PMID: 16319291
+
+PMID: 16306991
+
+PMID: 16042766
+
+PMID: 15984910
+
+=== Other ===
+
+@misc{Cascades, 
+	title = {In defense of informational cascades: In localized models, good cascades outweigh bad ones},
+	howpublished  = {\url{http://lalashan.mcmaster.ca/theobio/worden/index.php/Cascades_Paper}},
+	year = {in preparation},
+	author = {L. Worden and J. Dushoff}
+}@
+
+@misc{MeasureDHS, 
+	title = {{MeasureDHS Demographic and Health Surveys}},
+	howpublished  = {\url{http://www.measuredhs.com/}},
+	year = {Accessed Oct 2013},
+	key = {MeasureDHS}
+}@
+
+== EEB ==
+
+"consensus decision making in animals" 
+http://www.ncbi.nlm.nih.gov/pubmed/25101642
+
+@article {BodiCron09,
+	author = {{Orjan Bodina and Beatrice Crona}},
+	title = {The role of social networks in natural resource governance: What relational patterns make a difference?},
+	journal = "Global Environmental Change",
+	volume =19,
+	year=2009, 
+	pages="366-374",
+}@
+
+

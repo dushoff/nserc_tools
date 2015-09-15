@@ -1,0 +1,85 @@
+\documentclass[12pt, letterpaper]{article} 
+
+% Much simpler than the old version, but still has the same problem: margins are 1 in instead of 0.75. Maybe fixed now by using letterpaper.
+
+% We don''t need to includeheadfoot, apparently -- NSERC wants the outside stuff outside.
+
+% \usepackage[margin=0.75in, includeheadfoot]{geometry}
+% \usepackage[margin=0.75in]{geometry}
+\usepackage[top=0.90in, bottom=0.75in, hmargin=0.75in]{geometry}
+% \usepackage[top=0.75in, bot=0.75in, left=0.75in, right=0.75in]{geometry}
+% \usepackage[hmargin=0.75in, tmargin=0.75in, bmargin=0.75in]{geometry}
+\usepackage{xspace}
+\usepackage{url}
+\usepackage{enumitem}
+
+\headheight = 12 pt
+\headsep = 15 pt
+\footskip = 17 pt
+
+% HEADERS AND FOOTERS (see LaTeX Companion, page 93)
+\pagestyle{myheadings}
+\newcounter{refpage}
+\setcounter{refpage}{0}
+
+\newcommand{\myhead}{\bf{\large\sectitle}\hfill{}Jonathan Dushoff, PIN 319872}
+\newcommand{\myfoot}{\tiny\rm NSERC Discovery \sectitle, November 2014\hfill Page \thepage\ of \numpages}
+
+\setlist[itemize]{itemsep=2pt, topsep=0pt}
+
+\makeatletter
+\renewcommand{\@oddhead}{\myhead}
+\renewcommand{\@evenhead}{\myhead}
+\renewcommand{\@oddfoot}{\myfoot}
+\renewcommand{\@evenfoot}{\myfoot}
+\makeatother
+
+% SECTION HEADINGS AND SPACING
+\makeatletter
+
+\renewcommand{\section}{\@startsection  % see LaTeX Companion, p.26
+{section}%                           % the name
+{1}%                                 % the level
+{0mm}%                               % the indent
+{-0.5\baselineskip}%                 % the beforeskip
+{0.25\baselineskip}%                 % the afterskip
+{\normalfont\Large\bfseries}}%       % the style
+
+\renewcommand{\subsection}%
+{\vspace{0.6ex \@plus 3.0ex \@minus 1.0ex}\@startsection  % see LaTeX Companion, p.26
+{subsection}%                           % the name
+{2}%                                 % the level
+{0mm}%                               % the indent
+{0.75\baselineskip \@plus 0.25 ex}%                 % the beforeskip
+{0.4\baselineskip}%                 % the afterskip
+{\normalfont\large\bfseries}}%       % the style
+
+\renewcommand{\paragraph}{\vspace{0.40ex \@plus 0.2ex \@minus 0.0ex}\@startsection% see LaTeX Companion, p.26
+{paragraph}%                         % the name
+{3}%                                 % the level
+{\parindent}%                        % the indent
+{0.0\baselineskip}%                 % the beforeskip
+{-1em}%                              % the afterskip
+{\normalfont\normalsize\bfseries}}%  % the style
+\makeatother
+
+\newcommand{\etal}{\emph{et al.}\xspace}
+\newcommand{\pcrit}{p_{\rm crit}}
+\newcommand{\eg}{\emph{e.g.,}\xspace}
+\newcommand{\ie}{\emph{i.e.,}\xspace}
+\newcommand{\R}{{\cal R}}
+
+% \usepackage{hyperref}
+% \hypersetup{pagebackref,
+%%%  colorlinks=true,  %%% This yields a bug in figure environment
+% citecolor=blue,
+% urlcolor=blue}
+
+\begin{document}
+
+----------------------------------------------------------------------
+
+% N.B.  To avoid spacing between references in the reference list
+%       the command   \parskip=0pt   must be put inside the .bbl file.
+
+\end{document}

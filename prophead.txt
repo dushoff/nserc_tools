@@ -1,0 +1,2 @@
+\newcommand{\sectitle}{Proposal}
+\newcommand{\numpages}{5}

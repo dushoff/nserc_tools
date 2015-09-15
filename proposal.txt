@@ -1,0 +1,39 @@
+
+Comment: INTRO
+
+The ways in which ideas and behaviours affect each other, and spread along social-contact networks, has attracted a great deal of research interest recently from many fields. Understanding forces that shape behaviours remains a critical question in areas ranging from ecological management to public health to economics.
+The proposed research program will draw on my lab's broad experience with conceptual, network, and statistical modeling to combine techniques from various sub-fields and investigate both the theoretical underpinnings and specific details of the individual-level processes that give rise to population-level patterns of belief and behaviour.
+
+Sub: Objectives: research questions
+
+Paragraph: The wisdom (or folly) of crowds. Under some circumstances, groups of interacting individuals observing each other (but not communicating directly) display behavioural ``cascades'', where many of them make similar choices. These choices are often more advantageous than those that would be made by isolated individuals with the same information, but sometimes there are cascades of disadvantageous behaviours. A familiar example is trading markets, which often seem to converge on surprisingly accurate prices, but sometimes have speculative ``bubbles''. Another example is the large-scale, co-ordinated movements of schooling fish or grazing animals. Under what circumstances does the group stay together, and what controls the likelihood that good decisions are made?
+
+Paragraph: Behaviour change and social imitation. In some systems, individuals have both individual preferences, and a desire (or reason) to behave like their neighbors. Here, change in behaviour can lag well behind change in the conditions underlying preferences, and the behaviour can change very rapidly once a threshold is crossed. An example is footbinding in Chinese societies, a long-standing practice which was abandoned very quickly. What factors determine how and when do such systems overcome the ``inertia'' of social imitation to change states after conditions change? Another example is collective behaviour in bacteria: bacteria must ``decide'' when to invest in certain kinds of structure based on both the presence of other bacteria (``quorum'') and information about what those bacteria are likely to do.
+
+Paragraph: How groups reach consensus -- or fail to. In some systems, members of a group must reach a behavioural consensus, or else the group will split. A clear example is animal movement -- if some zebras want to continue grazing, and some want to go to the water hole, the herd must agree or split. Human political groups often face the same situation (for example in choosing an organization platform). How do individuals communicate and reach group decisions, and under what circumstances do groups break up rather than reach consensus?
+
+We will be particularly interested in interactions between network structure and behavioural dynamics:
+
+	To what extent do different network structures lead to different results, under the same assumptions about individual behaviour?
+
+	What network structures make consensus more likely (and what network structures tend to result from consensus-driven dynamics of joining and breaking)?
+
+	How does realistic network structure affect simple analyses of behavioural cascades and the wisdom of crowds? What network factors delay or accelerate change in social imitation systems?
+
+Sub: Objectives: proposed approaches
+
+Paragraph: Conceptual models. We will construct models with different kinds of simple agents. These agents will have preferences about different behaviours (eat now or drink now, plant corn or plant soybeans); social preferences (ideal group size, importance of behaving like other group members); and in some cases private information (for example, some elephants in a group may know where a perennial water hole is). These models can be analyzed mathematically, and will be used to explore the basic underlying factors that determine cascades, thresholds and consensus.
+
+Paragraph: Network models. We will extend the conceptual models to different sorts of social structures. We will focus on realistic network structures, parameterized from data, but will also consider more tractable limits, including small-world networks and random networks. For some applications, we will allow network structures to change through time. These models will be analyzed primarily through simulation, supplemented by analysis and analytic approximations.
+
+Comment: We will extend existing models of how individuals gather information by observing and communicating with others; and models of how individuals make decisions based on incentives.
+
+Paragraph: Statistical analysis and fitting. We will analyze available data from surveys of humans, observations of mammals, and bacterial experiments using multi-scale, mixed-effect models, and look for patterns of correlation that can be modeled in the longer term. We will take a combined approach to confronting our models with data: both analyzing data that bears directly on model parameters, and also fitting observed behaviour data dynamically. This will allow us to explicitly test hypotheses, estimate parameters with associated estimates of uncertainty, and explore the implications of our findings.
+
+Comment: Head: Recent Progress
+
+Comment: Describe your recent progress in research activities related to the proposal and, in addition for renewals, the progress attributable to your previous Discovery Grant.
+
+Sub: Progress
+
+Recent and ongoing work on how beliefs are structured and how they change provides the foundation for the proposed research.  In particular, we have shown ((AkhmWord13)) that local structure is likely to make transitions between different states easier, when underlying preferences are changing. We are currently working on models that show how ``information cascades'' ((Bikh)) work more effectively to integrate information when networks have intermediate connectedness; and on models that investigate the importance of _timing_ of actions in situations where actors are not communicating explicitly.

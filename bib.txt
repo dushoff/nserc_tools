@@ -1,0 +1,6 @@
+\renewcommand{\refname}{Not the real bib}
+% \bibliographystyle{nserc}
+\bibliographystyle{abbrv}
+\newpage
+\ \vspace{-3\baselineskip}
+\bibliography{test}

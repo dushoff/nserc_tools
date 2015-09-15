@@ -1,0 +1,26 @@
+# %% Takes whole rest of P.
+# %! Discards whole rest of P.
+# %| Takes "sentence"
+# %: Colon command, takes up to discarded period
+# %_ Takes optional line
+# %^ Takes optional word
+# % Takes word
+
+!TAB \t
+!BIZ \begin{itemize}
+!ITEM \item
+!EIZ \end{itemize}
+
+Nohead %!
+Head \section*{%:} %%
+Sub \subsection*{%:} %%
+# Newhead \subsection*{%:} %%
+Paragraph \paragraph*{%::} %%
+Comment %!
+Square \medskip\noindent %%
+
+* (( )) \cite{%}
+* [ ] {\tt %}
+* _ _ {\em %}
+
++ etal \emph{et al.}\xspace
