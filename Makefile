@@ -42,9 +42,8 @@ proposal.pdf: proposal.bbl proposal.txt
 proposal.bbl: test.bib
 
 ##################################################################
-##################################################################
 
-parallel += $(ms) $(autorefs)
+parallel += $(autorefs)
 # parallel += $(nserc_tools)
 
 -include $(ms)/local.mk
