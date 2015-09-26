@@ -1,5 +1,4 @@
-include $(ms)/perl.def
-
+-include $(ms)/perl.def
 
 # Latex
 # Do we need case abb, or is the double-paren thing working OK?
