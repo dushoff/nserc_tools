@@ -1,5 +1,7 @@
 -include $(ms)/perl.def
 
+### Abandoning this as a separate project for now; eventually (if you feel like it) try to _break_ nserc back into a private part and a public part
+
 # Latex
 # Do we need case abb, or is the double-paren thing working OK?
 

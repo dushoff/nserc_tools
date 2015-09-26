@@ -11,4 +11,11 @@ commit.txt
 
 *.Rout
 *.out
+
+*.tex
+subclone_dir/
+testdir/
+testdir_old/
+tools
+
 local.mk
